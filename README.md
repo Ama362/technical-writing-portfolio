@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-This repository contains a collection of my technical writing samples, showcasing my experience in creating clear, structured, and user-focused documentation.
+This repository contains a collection of my technical writing projects, showcasing my experience in creating clear, structured, and user-focused documentation.
 
 ---
 
