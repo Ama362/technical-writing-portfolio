@@ -24,7 +24,7 @@ I enjoy translating complex information into content that is easy to understand,
 
 Below are selected samples of my documentation work. Each sample demonstrates my approach to clarity, structure, and usability.
 
-### 📘 Product Documentation
+### Product Documentation
 Documentation created to explain product features, workflows, and usage clearly for end users.
 
 - **Product Documentation Sample**  
@@ -34,7 +34,7 @@ Documentation created to explain product features, workflows, and usage clearly 
 
 ---
 
-### 📗 User Guides
+### User Guides
 Step-by-step guides designed to help users understand and use products or systems effectively.
 
 - **User Guide Sample**  
@@ -44,36 +44,36 @@ Step-by-step guides designed to help users understand and use products or system
 
 ---
 
-### 📙 Standard Operating Procedures (SOPs)
+### Standard Operating Procedures (SOPs)
 Process-driven documentation that outlines standardized workflows and procedures.
 
 - **SOP Documentation Sample**  
   Description: A structured SOP outlining procedures and responsibilities.  
   Tools used: Markdown, Google Docs  
-  📄 File: `docs/sops/sop-sample.md` *(to be added)*
+  File: `docs/sops/sop-sample.md` *(to be added)*
 
 ---
 
-### 📄 Accessibility Statements
+### Accessibility Statements
 Documentation focused on accessibility considerations and compliance.
 
 - **Accessibility Statement Sample**  
   Description: An accessibility statement outlining compliance, limitations, and ongoing improvements.  
   Tools used: Markdown, WCAG guidelines  
-  📄 File: `docs/accessibility/accessibility-statement.md` *(to be added)*
+  File: `docs/accessibility/accessibility-statement.md` *(to be added)*
 
 ---
 
-### 📝 Articles & Other Documentation
+### Articles & Other Documentation
 Additional writing samples demonstrating clarity, structure, and audience awareness.
 
 - **Technical Article Sample**  
   Description: An article explaining a technical concept in a clear and engaging way.  
-  📄 Link: *(to be added)*
+  Link: *(to be added)*
 
 - **Internal Memo Sample**  
   Description: A concise internal memo written for clear internal communication.  
-  📄 File: `docs/memos/memo-sample.md` *(to be added)*
+  File: `docs/memos/memo-sample.md` *(to be added)*
 
 ---
 
@@ -105,4 +105,4 @@ Additional writing samples demonstrating clarity, structure, and audience awaren
 
 ---
 
-*This portfolio is continuously updated as I create and refine new documentation samples.*
+*This portfolio is continuously updated as I create and refine new documentation projects.*
