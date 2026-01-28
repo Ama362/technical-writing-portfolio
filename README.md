@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-This repository contains a collection of my technical writing projects, showcasing my experience in creating clear, structured, and user-focused documentation.
+This repository contains a collection of my technical writing projects, showcasing my experience in creating clear, concise, structured, and user-centered documentation.
 
 ---
 
@@ -8,12 +8,11 @@ This repository contains a collection of my technical writing projects, showcasi
 
 I am a **Technical Writer** with **2 years of experience** creating clear and well-structured documentation for technical and non-technical audiences.
 
-My work focuses on:
-- Product documentation
-- User guides
-- Standard Operating Procedures (SOPs)
+I focus on:
+- Product documentation with SSGs
+- User guides/ manual
 - Technical and documentation-style articles
-- Internal documents such as memos
+- Internal documents such as memos, eemails, proposals, complaiance policies etc
 - Accessibility statements
 
 I enjoy translating complex information into content that is easy to understand, accessible, and useful for end users and stakeholders.
@@ -30,7 +29,7 @@ Documentation created to explain product features, workflows, and usage clearly 
 - **Product Documentation Sample**  
   Description: Product-focused documentation explaining features and usage.  
   Tools used: Markdown, VS Code  
-  📄 File: `docs/product-documentation.md` *(to be added)*
+  File: `docs/product-documentation.md` *(to be added)*
 
 ---
 
@@ -40,7 +39,7 @@ Step-by-step guides designed to help users understand and use products or system
 - **User Guide Sample**  
   Description: A user guide providing clear instructions and workflows.  
   Tools used: Markdown, GitHub  
-  📄 File: `docs/user-guides/user-guide.md` *(to be added)*
+  File: `docs/user-guides/user-guide.md` *(to be added)*
 
 ---
 
