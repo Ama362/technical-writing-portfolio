@@ -47,11 +47,8 @@ Step-by-step guides designed to help users understand and use products or system
 Process-driven documentation that outlines standardized workflows and procedures.
 
 - **SOP Documentation Sample**  
-  Description: A structured SOP outlining procedures and responsibilities.  
-  Tools used: Markdown, Google Docs  
-  File: `docs/sops/sop-sample.md` *(to be added)*
-
----
+  Description: A structured SOP outlining procedures and responsibilities.    
+  File: `docs/sops/sop-sample.md` 
 
 ---
 
