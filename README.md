@@ -53,14 +53,6 @@ Process-driven documentation that outlines standardized workflows and procedures
 
 ---
 
-### Accessibility Statements
-Documentation focused on accessibility considerations and compliance.
-
-- **Accessibility Statement Sample**  
-  Description: An accessibility statement outlining compliance, limitations, and ongoing improvements.  
-  Tools used: Markdown, WCAG guidelines  
-  File: `docs/accessibility/accessibility-statement.md` *(to be added)*
-
 ---
 
 ### Articles & Other Documentation
@@ -83,7 +75,7 @@ Additional writing samples demonstrating clarity, structure, and audience awaren
 - Product documentation
 - User guides
 - SOPs
-- Accessibility documentation
+- Saas documentation
 - Technical articles
 
 **Tools**
@@ -91,7 +83,8 @@ Additional writing samples demonstrating clarity, structure, and audience awaren
 - Asciidoc
 - GitHub
 - Visual Studio Code
-- Google Docs
+- Hashnode
+- Docker
 
 ---
 
