@@ -6,40 +6,42 @@ This repository contains a collection of my technical writing projects, showcasi
 
 ## About Me
 
-I am a **Technical Writer** with **2 years of experience** creating clear and well-structured documentation for technical and non-technical audiences.
+I am a **Technical Writer** with over **2 years of experience** creating clear and well-structured documentation for technical and non-technical audiences.
 
 I focus on:
-- Product documentation with SSGs
-- User guides/ manual
+- Product documentation using Static site generators (SSGs)
+- User guides/manual for various devices 
+- Web developmeent (HTML & CSS)
 - Technical and documentation-style articles
-- Internal documents such as memos, eemails, proposals, complaiance policies etc
 - Accessibility statements
+- Internal documents such as memos, emails, proposals, complaiance policies,reports etc
+  
 
-I enjoy translating complex information into content that is easy to understand, accessible, and useful for end users and stakeholders.
+I enjoy translating complex information into clear and concise content that is easy to understand, accessible, and useful for readers.
 
 ---
 
 ## Writing Samples
 
-Below are selected samples of my documentation work. Each sample demonstrates my approach to clarity, structure, and usability.
+Below are samples of my documentation work. Each sample demonstrates my approach to clarity, structure, and usability.
 
 ### Product Documentation
 Documentation created to explain product features, workflows, and usage clearly for end users.
 
 - **Product Documentation Sample**  
-  Description: Product-focused documentation explaining features and usage.  
-  Tools used: Markdown, VS Code  
-  File: `docs/product-documentation.md` *(to be added)*
+  Description:This documentation explains Refract as next-generation JavaScript framework built for modern, reactive, and high performance user interface.   
+  Tools used: HTML & CSS Markdown, VS Code, JavaScript  
+  File: Located in the repository
 
 ---
 
 ### User Guides
-Step-by-step guides designed to help users understand and use products or systems effectively.
+Step-by-step guides designed to help users understand and use products effectively.
 
 - **User Guide Sample**  
-  Description: A user guide providing clear instructions and workflows.  
-  Tools used: Markdown, GitHub  
-  File: `docs/user-guides/user-guide.md` *(to be added)*
+  Description: A user guide providing clear instructions and workflows about Smart Wifi Plug.  
+  Tools used: Google docs  
+  File: Check the doc folder in this reepository to find the file.
 
 ---
 
@@ -80,8 +82,9 @@ Additional writing samples demonstrating clarity, structure, and audience awaren
 - Asciidoc
 - GitHub
 - Visual Studio Code
-- Hashnode
+- Html & CSS
 - Docker
+- Google suites
 
 ---
 
