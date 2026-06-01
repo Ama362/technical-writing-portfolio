@@ -31,7 +31,7 @@ Documentation created to explain product features, workflows, and usage clearly 
 - **Product Documentation Sample**  
   Description:This documentation explains Refract as next-generation JavaScript framework built for modern, reactive, and high performance user interface.   
   Tools used: HTML & CSS Markdown, VS Code, JavaScript  
-  File: Located in the repository
+  File: Located in one of my repositories 
 
 ---
 
@@ -41,7 +41,7 @@ Step-by-step guides designed to help users understand and use products effective
 - **User Guide Sample**  
   Description: A user guide providing clear instructions and workflows about Smart Wifi Plug.  
   Tools used: Google docs  
-  File: Check the doc folder in this reepository to find the file.
+  File: Check the doc folder in this repository to find the file.
 
 ---
 
@@ -49,8 +49,8 @@ Step-by-step guides designed to help users understand and use products effective
 Process-driven documentation that outlines standardized workflows and procedures.
 
 - **SOP Documentation Sample**  
-  Description: A structured SOP outlining procedures and responsibilities.    
-  File: `docs/sops/sop-sample.md` 
+  Description: Standard Operational Procedures for management of students' results in Nigerian Universities.
+  File: Check the doc folder in this repository to find the file.
 
 ---
 
@@ -58,32 +58,32 @@ Process-driven documentation that outlines standardized workflows and procedures
 Additional writing samples demonstrating clarity, structure, and audience awareness.
 
 - **Technical Article Sample**  
-  Description: An article explaining a technical concept in a clear and engaging way.  
-  Link: *(to be added)*
+  Description: Articles explaining the significant roles of technical writing in varous industries in a simple yet insightful way.  
+  Link:  https://linkedin.com/in/amaeti-usoro-624a16242
 
-- **Internal Memo Sample**  
-  Description: A concise internal memo written for clear internal communication.  
-  File: `docs/memos/memo-sample.md` *(to be added)*
+- **Audit Report**  
+  Description: A detailed audit report on Verify website. This audit report shows the erros, corrections and suggestions to help improve website usage and visibility.  
+  File:  Check the doc folder in this repository to find the file.
 
 ---
 
-## Skills & Tools
-
-**Writing & Documentation**
+## Skills
 - Technical writing
 - Product documentation
-- User guides
-- SOPs
+- User guides/mauals
+- Standard Operational Procedures (SOPs)
+- HTMl & CSS
 - Saas documentation
 - Technical articles
 
-**Tools**
+## Tools
 - Markdown
 - Asciidoc
 - GitHub
 - Visual Studio Code
-- Html & CSS
-- Docker
+- Netlify
+- Docusaurus
+- Medium
 - Google suites
 
 ---
@@ -92,7 +92,7 @@ Additional writing samples demonstrating clarity, structure, and audience awaren
 
 - **Email:** usoroamaeti@gmail.com  
 - **GitHub:** https://github.com/ama362  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **LinkedIn:** https://linkedin.com/in/amaeti-usoro-624a16242
 - **Medium:**  Amaeti usoro
 
 ---
